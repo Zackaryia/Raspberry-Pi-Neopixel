@@ -97,7 +97,7 @@ if __name__ == '__main__':
     try:
 
         while True:
-            print ('Color wipe animations.')
+            print ('Color wipe animations. 12')
             colorWipe(strip, Color(123, 332, 121))  # Red wipe
             colorWipe(strip, Color(0, 0, 0))  # Blue wipe
             colorWipe(strip, Color(21, 0, 255))  # Green wipe
